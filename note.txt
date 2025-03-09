@@ -1,1 +1,6 @@
 "笔记"
+git的使用
+新建文件夹-git bash here - 配置 git config ....
+github新建存储或者新建分支，然后克隆到本地文件夹内,git clone 'http' 
+git add note.txt,git commit -m'add note.txt' ,git push 
+修改远程仓库后，git pull ，到本地
